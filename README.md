@@ -6,7 +6,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=EdsonAP1&color=blue&style=flat-square&label=Profile+views" alt="Profile views" />
 </p>
-* 💻 Passionate about **Cybersecurity**, **Software Development** (Python, React, Flask), and **Automation**.
+* 💻 Passionate about Cybersecurity, Software Development (Python, React, Flask), and Automation.
 * ⚙️ Building algorithmic trading bots (MT5) and developing robust management systems.
 * 🐧 Enthusiast of hardware optimization, virtualization, and Linux environments.
 

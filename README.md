@@ -2,16 +2,16 @@
   <img src="217730.gif" alt="Animated Banner" width="100%">
 </div>
 
-## 👋 Hey! Welcome to my profile
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=EdsonAP1&color=blue&style=flat-square&label=Profile+views" alt="Profile views" />
-</p>
+👋 **Hey! Welcome to my profile**
 
-* 💻 Passionate about Cybersecurity, Software Development (Python, React, Flask), and Automation.
-* ⚙️ Building algorithmic trading bots (MT5) and developing robust management systems.
-* 🐧 Enthusiast of hardware optimization, virtualization, and Linux environments.
+*   🛡️ **Systems Engineering Senior Student** specializing in **Fullstack Development** and **DevOps**.
+*   💻 Proficient in building scalable applications with **React, TypeScript, Go,** and **Python**.
+*   ⚙️ Experienced in creating automated **n8n workflows** and managing **Docker-based infrastructure**.
+*   🐧 Enthusiastic about **Linux administration** (Ubuntu/Debian) and **cybersecurity fundamentals**.
+*   🔍 Currently seeking opportunities as a **Junior Developer or Intern** to grow my skills and deliver value.
 
-### 🛠️ Tech Stack & Tools
+🛠 **Tech Stack & Tools**
+<!-- Mantén tus badges actuales: Python, React, Flask, Linux, etc. -->
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>

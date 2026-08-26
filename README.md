@@ -49,32 +49,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/EdsonAP1/api-pagos-qr">
-    <img width="48%" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=EdsonAP1&repo=api-pagos-qr&theme=tokyonight&hide_border=true&border_radius=8" alt="api-pagos-qr" />
-  </a>
-  <a href="https://github.com/EdsonAP1/n8nED">
-    <img width="48%" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=EdsonAP1&repo=n8nED&theme=tokyonight&hide_border=true&border_radius=8" alt="n8nED" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/EdsonAP1/cafeteria-fullstack">
-    <img width="48%" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=EdsonAP1&repo=cafeteria-fullstack&theme=tokyonight&hide_border=true&border_radius=8" alt="cafeteria-fullstack" />
-  </a>
-  <a href="https://github.com/EdsonAP1/Predictor-de-Precios">
-    <img width="48%" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=EdsonAP1&repo=Predictor-de-Precios&theme=tokyonight&hide_border=true&border_radius=8" alt="Predictor-de-Precios" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/EdsonAP1?tab=repositories"><b>Explore all repositories →</b></a>
-</p>
-
----
-
 ### 📊 GitHub Analytics
 
 <p align="center">

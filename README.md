@@ -73,22 +73,16 @@
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api?username=EdsonAP1&show_icons=true&hide_border=true&theme=tokyonight&border_radius=8" height="170" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=EdsonAP1&hide_border=true&theme=tokyonight&border_radius=8" height="170" alt="GitHub streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/top-langs/?username=EdsonAP1&layout=compact&hide_border=true&theme=tokyonight&border_radius=8" height="170" alt="Top Languages" />
-</div>
+<p align="center">
+  <img height="195" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api?username=EdsonAP1&show_icons=true&hide_border=true&theme=tokyonight&border_radius=8" alt="GitHub stats" />
+  <img height="195" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/top-langs/?username=EdsonAP1&layout=compact&hide_border=true&theme=tokyonight&border_radius=8&langs_count=8" alt="Top Languages" />
+</p>
 
 <br/>
 
-### 🐍 Contribution Graph & Snake Animation
+### 🐍 Contribution Activity
 
 <div align="center">
   <picture>

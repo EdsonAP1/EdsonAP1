@@ -51,19 +51,19 @@
 
 <p align="center">
   <a href="https://github.com/EdsonAP1/api-pagos-qr">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=EdsonAP1&repo=api-pagos-qr&theme=tokyonight&hide_border=true&border_radius=8" alt="api-pagos-qr" />
+    <img width="48%" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=EdsonAP1&repo=api-pagos-qr&theme=tokyonight&hide_border=true&border_radius=8" alt="api-pagos-qr" />
   </a>
   <a href="https://github.com/EdsonAP1/n8nED">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=EdsonAP1&repo=n8nED&theme=tokyonight&hide_border=true&border_radius=8" alt="n8nED" />
+    <img width="48%" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=EdsonAP1&repo=n8nED&theme=tokyonight&hide_border=true&border_radius=8" alt="n8nED" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/EdsonAP1/cafeteria-fullstack">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=EdsonAP1&repo=cafeteria-fullstack&theme=tokyonight&hide_border=true&border_radius=8" alt="cafeteria-fullstack" />
+    <img width="48%" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=EdsonAP1&repo=cafeteria-fullstack&theme=tokyonight&hide_border=true&border_radius=8" alt="cafeteria-fullstack" />
   </a>
   <a href="https://github.com/EdsonAP1/Predictor-de-Precios">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=EdsonAP1&repo=Predictor-de-Precios&theme=tokyonight&hide_border=true&border_radius=8" alt="Predictor-de-Precios" />
+    <img width="48%" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=EdsonAP1&repo=Predictor-de-Precios&theme=tokyonight&hide_border=true&border_radius=8" alt="Predictor-de-Precios" />
   </a>
 </p>
 
@@ -76,21 +76,19 @@
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdsonAP1&show_icons=true&hide_border=true&theme=tokyonight&border_radius=8&title_color=7AA2F7&icon_color=7AA2F7&text_color=c0caf5&bg_color=1A1B27" height="170" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=EdsonAP1&hide_border=true&theme=tokyonight&border_radius=8&background=1A1B27&ring=7AA2F7&fire=7AA2F7&currStreakNum=c0caf5" height="170" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonAP1&layout=compact&hide_border=true&theme=tokyonight&border_radius=8&title_color=7AA2F7&text_color=c0caf5&bg_color=1A1B27" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api?username=EdsonAP1&show_icons=true&hide_border=true&theme=tokyonight&border_radius=8" height="170" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=EdsonAP1&hide_border=true&theme=tokyonight&border_radius=8" height="170" alt="GitHub streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EdsonAP1&theme=tokyo-night&hide_border=true&area=true&radius=8&bg_color=1A1B27&color=7AA2F7&line=7AA2F7&point=c0caf5" alt="Activity Graph" width="95%" />
+  <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/top-langs/?username=EdsonAP1&layout=compact&hide_border=true&theme=tokyonight&border_radius=8" height="170" alt="Top Languages" />
 </div>
 
 <br/>
+
+### 🐍 Contribution Graph & Snake Animation
 
 <div align="center">
   <picture>
@@ -101,6 +99,8 @@
 </div>
 
 <br/>
+
+### 🧊 3D Contribution Calendar
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/EdsonAP1/EdsonAP1/output-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="95%" />

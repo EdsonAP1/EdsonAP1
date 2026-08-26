@@ -32,7 +32,7 @@
 ### 🛠️ Tech Stack & Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,go,py,react,nextjs,html,css,tailwind,nodejs,flask,fastapi,postgres,mongodb,mysql,sqlite,docker,linux,ubuntu,debian,bash,git,github,githubactions,postman,vscode,figma&theme=dark&perline=14" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,go,py,react,nextjs,html,css,tailwind,nodejs,flask,fastapi,postgres,mongodb,mysql,sqlite,redis,docker,kubernetes,terraform,ansible,aws,gcp,nginx,linux,ubuntu,debian,bash,git,github,githubactions,jenkins,grafana,prometheus&theme=dark&perline=17" alt="Tech Stack" />
 </p>
 
 <details>
@@ -40,8 +40,10 @@
 <br/>
 
 - **Languages & Frontend:** TypeScript, JavaScript, Go, Python, React, Next.js, HTML5, CSS3, Tailwind CSS
-- **Backend & Databases:** Node.js, Flask, FastAPI, PostgreSQL, MongoDB, MySQL, SQLite
-- **DevOps & Tools:** Docker, Linux (Ubuntu/Debian), Bash scripting, Git, GitHub Actions, n8n, Postman, VS Code, Figma
+- **Backend, APIs & Databases:** Node.js, Flask, FastAPI, PostgreSQL, MongoDB, MySQL, SQLite, Redis
+- **DevOps, Containers & Cloud:** Docker, Kubernetes, Terraform, Ansible, AWS, Google Cloud (GCP), Nginx
+- **CI/CD, Monitoring & Automation:** GitHub Actions, Jenkins, Git, Grafana, Prometheus, n8n, Bash scripting
+- **Operating Systems & Tools:** Linux (Ubuntu / Debian), Postman, VS Code, Figma
 
 </details>
 

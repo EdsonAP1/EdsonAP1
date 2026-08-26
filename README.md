@@ -21,7 +21,7 @@
 
 ### ⚡ About Me
 
-- 🛡️ **Systems Engineering Senior Student** specializing in modern **Fullstack Development** and **DevOps**.
+- 🛡️ ** Engineering ** specializing in modern ** Development** and **DevOps**.
 - 💻 Proficient in building resilient, scalable applications with **React**, **TypeScript**, **Go**, and **Python**.
 - ⚙️ Experienced in automating complex workflows with **n8n** and managing containerized infrastructure with **Docker**.
 - 🐧 Enthusiastic about **Linux administration** (Ubuntu / Debian), cloud fundamentals, and system security.

@@ -21,12 +21,9 @@
 
 ### ⚡ About Me
 
-- 🛡️ **Engineering** specializing in modern **Development** and **DevOps**.
-- 💻 Proficient in building resilient, scalable applications with **React**, **TypeScript**, **Go**, and **Python**.
-- ⚙️ Experienced in automating complex workflows with **n8n** and managing containerized infrastructure with **Docker**.
-- 🐧 Enthusiastic about **Linux administration** (Ubuntu / Debian), cloud fundamentals, and system security.
-- 🎯 Constantly building practical projects and seeking opportunities as a **Junior Developer or Intern**.
+🎓 Systems Engineering student passionate about technology, software development, and innovation.
 
+🚀 Always learning, exploring new ideas, and building projects.
 ---
 
 ### 🛠️ Tech Stack & Arsenal

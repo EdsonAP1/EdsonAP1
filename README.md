@@ -55,17 +55,7 @@
 
 <br/>
 
-### 🐍 Contribution Activity
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdsonAP1/EdsonAP1/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdsonAP1/EdsonAP1/output/github-snake.svg" />
-    <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/EdsonAP1/EdsonAP1/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<br/>
 
 ### 🧊 3D Contribution Calendar
 

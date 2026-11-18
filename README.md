@@ -73,10 +73,10 @@
   <a href="https://github.com/EdsonAP1">
     <img src="https://img.shields.io/badge/GitHub-EdsonAP1-7AA2F7?style=flat-square&logo=github&logoColor=white&labelColor=1A1B27" alt="GitHub" />
   </a>
-  <a href="mailto:aruquipaedson@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aruquipaedson@gmail.com-7AA2F7?style=flat-square&logo=gmail&logoColor=white&labelColor=1A1B27" alt="Email" />
+  <a href="mailto:aruquipaed.@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aruquipaed@gmail.com-7AA2F7?style=flat-square&logo=gmail&logoColor=white&labelColor=1A1B27" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/eap06/in/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2F7?style=flat-square&logo=linkedin&logoColor=white&labelColor=1A1B27" alt="LinkedIn" />
   </a>
 </p>
